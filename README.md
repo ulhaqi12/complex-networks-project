@@ -1,7 +1,7 @@
 # Hollywood Collaboration Network Analysis
 
 ## Description
-This repositoru contains the final project of the course of Complex Networks that i studies in UIB, Spain in my Masters. 
+This repository contains the final project of the course on Complex Networks that I studied at UIB, Spain in my Masters. 
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -44,12 +44,12 @@ $ pip install -r requirements.txt
 
 
 ## Running Jupyter Notebooks
-To run Jupyter notebooks, use the following command:
+To run Jupyter Notebooks, use the following command:
 ```
 $ jupyter notebook
 ```
 
-This command will start the Jupyter notebook server and open a browser window where you can select and open individual notebook files.
+This command will start the Jupyter Notebook server and open a browser window where you can select and open individual notebook files.
 
 ## Usage
 All the code is explained in the markdown cells within the repository.

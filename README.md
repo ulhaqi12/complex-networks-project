@@ -2,6 +2,7 @@
 
 ## Description
 This repository contains the final project of the course on Complex Networks that I studied at UIB, Spain in my Masters. 
+The data folder contains the data of all the actors and the folder scrapper has the web scrapper in it used to scrape the data from IMDB.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
